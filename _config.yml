@@ -1,6 +1,6 @@
 name: Papadam Studios
 favicon: null
-layout_spectrum: 0.04156810021959245
+layout_spectrum: 1
 typography_spectrum: 0.5968364286236465
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#67008d'
+    - '#ab71bf'
+    - '#944bae'
+    - '#dcc4e4'
   brandStrength: 0.9277583516668528
-  lightness: 0.9354680052492768
-  saturation: 0.833780821878463
-  rhythmicContrast: 0.7537824683822691
+  lightness: 0.8125
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
